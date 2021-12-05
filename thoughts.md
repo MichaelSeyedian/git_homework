@@ -7,3 +7,6 @@ Strategies for the rest of Mod 0:
 
 Shoutout:
 Ellen, Margo, & Amy for providing excellent lessons.
+
+Added thought:
+Learning programming is much more enjoyable & fulfilling than my current job. 
