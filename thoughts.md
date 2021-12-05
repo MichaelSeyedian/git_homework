@@ -9,4 +9,7 @@ Shoutout:
 Ellen, Margo, & Amy for providing excellent lessons.
 
 Added thought:
-Learning programming is much more enjoyable & fulfilling than my current job. 
+Learning programming is much more enjoyable & fulfilling than my current job.
+
+Another thought:
+It's very early in the morning,
